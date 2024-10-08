@@ -10,8 +10,8 @@ export default function HomePage() {
     const [completedDraftOrderShopify, setCompletedDraftOrderShopify] = useState(false);
 
     const shopifyDetails = {
-        shopify_store_url: "https://learning-with-rhb.myshopify.com",
-        shopify_access_token: "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"
+        shopify_store_url: "url",
+        shopify_access_token: "toekn"
     };
 
     const quantity = 2; // Example quantity
